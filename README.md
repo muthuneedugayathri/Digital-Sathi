@@ -119,4 +119,5 @@ npm run lint     # Run OxLint
 
 ## License
 
-Private project.
+[MIT License](LICENSE) - Feel free to use, modify, and distribute!
+
