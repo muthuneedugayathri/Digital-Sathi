@@ -42,7 +42,7 @@ cp .env.example .env.local
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open ((https://digital-sathi-main.vercel.app/)) in your browser.
 
 ## Environment Variables
 
